@@ -1,6 +1,6 @@
 // Agregar a la base
 
-const URL_BASE = "http://18.188.206.78:8080/tasks"; // aws
+const URL_BASE = "http://3.17.78.240:8080/tasks"; // aws
 
 // Defaul headers for fetch
 const defaultHeaders = {
